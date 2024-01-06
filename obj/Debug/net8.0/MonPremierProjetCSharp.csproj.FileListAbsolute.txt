@@ -1,0 +1,14 @@
+C:\Users\Ilyes\code\MonPremierProjetCSharp\bin\Debug\net8.0\MonPremierProjetCSharp.exe
+C:\Users\Ilyes\code\MonPremierProjetCSharp\bin\Debug\net8.0\MonPremierProjetCSharp.deps.json
+C:\Users\Ilyes\code\MonPremierProjetCSharp\bin\Debug\net8.0\MonPremierProjetCSharp.runtimeconfig.json
+C:\Users\Ilyes\code\MonPremierProjetCSharp\bin\Debug\net8.0\MonPremierProjetCSharp.dll
+C:\Users\Ilyes\code\MonPremierProjetCSharp\bin\Debug\net8.0\MonPremierProjetCSharp.pdb
+C:\Users\Ilyes\code\MonPremierProjetCSharp\obj\Debug\net8.0\MonPremierProjetCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilyes\code\MonPremierProjetCSharp\obj\Debug\net8.0\MonPremierProjetCSharp.AssemblyInfoInputs.cache
+C:\Users\Ilyes\code\MonPremierProjetCSharp\obj\Debug\net8.0\MonPremierProjetCSharp.AssemblyInfo.cs
+C:\Users\Ilyes\code\MonPremierProjetCSharp\obj\Debug\net8.0\MonPremierProjetCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ilyes\code\MonPremierProjetCSharp\obj\Debug\net8.0\MonPremierProjetCSharp.dll
+C:\Users\Ilyes\code\MonPremierProjetCSharp\obj\Debug\net8.0\refint\MonPremierProjetCSharp.dll
+C:\Users\Ilyes\code\MonPremierProjetCSharp\obj\Debug\net8.0\MonPremierProjetCSharp.pdb
+C:\Users\Ilyes\code\MonPremierProjetCSharp\obj\Debug\net8.0\MonPremierProjetCSharp.genruntimeconfig.cache
+C:\Users\Ilyes\code\MonPremierProjetCSharp\obj\Debug\net8.0\ref\MonPremierProjetCSharp.dll
